@@ -9,6 +9,9 @@ const navItems = {
   '/': {
     name: 'home',
   },
+  '/experience': {
+    name: 'experience'
+  },
 };
 
 // TODO: Create an animated minimalist "M" logo
